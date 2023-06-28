@@ -1,18 +1,18 @@
-## #Учебный проект №1: How-to-learn-plus
 
-В ходе данного учебного проекта подготовлен веб-сайт с заданной функциональность.
+# Welcome to **[How-to-learn-plus](https://foxriver660.github.io/how-to-learn-plus/)**!
 
-- все элементы страницы хранятся в родительском блоке с установленной минимальной максимальной шириной.
-- CSS файлы разбитые по соответвующим блокам загружаются на основной файл **_index.css_** при помощи директивы **_@import_**.
-- веб-сайт состоит из 11 семантических секций, каждая из которых является независимым блоком не оказывающим вляния на соседние.
-- все ссылки на сайте являются активными и перенаправляют на заданные интернет-ресурсы.
+  
 
----
+  
+Static site. 
+The website consists of 11 semantic sections, each of which is an independent block that does not affect neighboring ones.
+The file structure is built in accordance with the **BEM methodology** using the organization scheme of the file structure of the Nested project.
+Used CSS Flexbox to create flexible layouts. With the help of this technology, the created website has an adaptive design.
+With Youtube video hosting using iframe, the corresponding videos are displayed
 
-Использованные технологии:
+# Used technologies
 
-- файловая структура построена в соотвествии с **_методологией БЭМ_** с применением схемы организации файловой структуры проекта **_Nested_**.
-- использована технология **_CSS Flexboх_** для создания гибких макетов. С помощью данной технологии созданный веб-сайт обладает адаптивным дизайном.
-- на веб-сайте реальлизовано использование анимации с помощью **_@Keyframes_**, которое вынесено отдельным блоком и подключается к элементам на странице с помощью селектора класса.
-- все имеющиеся на сайте ссылки интерактивны и анимированы с помощью **_transition_**.
-- с видео хостинга Youtube c помощью технологии **_iframe_** отабражаются соответвующие видео.
+  
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
