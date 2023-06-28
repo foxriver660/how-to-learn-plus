@@ -5,10 +5,10 @@
 
   
 Static site.   
-*The website consists of 11 semantic sections, each of which is an independent block that does not affect neighboring ones.  
-*The file structure is built in accordance with the **BEM methodology** using the organization scheme of the file structure of the Nested project.  
-*Used CSS Flexbox to create flexible layouts. With the help of this technology, the created website has an adaptive design.  
-*With Youtube video hosting using iframe, the corresponding videos are displayed  
+* The website consists of 11 semantic sections, each of which is an independent block that does not affect neighboring ones.  
+* The file structure is built in accordance with the **BEM methodology** using the organization scheme of the file structure of the Nested project.  
+* Used CSS Flexbox to create flexible layouts. With the help of this technology, the created website has an adaptive design.  
+* With Youtube video hosting using iframe, the corresponding videos are displayed  
 
 # Used technologies
 
